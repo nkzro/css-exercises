@@ -1,0 +1,14 @@
+.either {
+    background-color: black;
+    color: white;
+}
+
+.or {
+    background-color: yellow;
+    color: black;
+}
+
+.either, .or {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
